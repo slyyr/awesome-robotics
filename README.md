@@ -4,7 +4,7 @@ A curated collection of genuinely useful **free resources for learning AI, robot
 
 No giant link dumps. No filler. Just resources worth bookmarking.
 
-
+![Robot learning](assets/gifs/no.gif)
 
 ## Explore
 
