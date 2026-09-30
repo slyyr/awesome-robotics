@@ -21,4 +21,6 @@
 
 ## Projects
 
-_No verified entries yet._
+- [Gazebo models](https://github.com/gazebosim/gz-sim)
+- [Webots examples](https://github.com/cyberbotics/webots/tree/master/projects)
+- [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie)

@@ -10,12 +10,18 @@
 
 ## 🌐 Websites & Tutorials
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Gazebo docs](https://gazebosim.org/docs)
+- [Webots docs](https://cyberbotics.com/doc/guide/index)
+- [MuJoCo docs](https://mujoco.readthedocs.io/)
 
 ## 🛠️ Official Documentation
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Gazebo](https://gazebosim.org/docs)
+- [Webots](https://cyberbotics.com/doc/guide/index)
+- [MuJoCo](https://mujoco.readthedocs.io/)
 
 ## 💻 Projects
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Gazebo models](https://github.com/gazebosim/gz-sim)
+- [Webots examples](https://github.com/cyberbotics/webots/tree/master/projects)
+- [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie)

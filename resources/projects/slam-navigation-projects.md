@@ -21,4 +21,6 @@
 
 ## Projects
 
-_No verified entries yet._
+- [ROS 2 tutorials](https://docs.ros.org/en/jazzy/Tutorials.html)
+- [Nav2](https://github.com/ros-navigation/navigation2)
+- [MoveIt 2](https://moveit.picknik.ai/main/index.html)

@@ -8,32 +8,48 @@
 
 ## 📚 Books
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Deep Learning](https://www.deeplearningbook.org/)
+- [Dive into Deep Learning](https://d2l.ai/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ## 🎓 Online Courses
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [fast.ai Practical Deep Learning](https://course.fast.ai/)
+- [Hugging Face Course](https://huggingface.co/learn/nlp-course/)
+- [DeepLearning.AI free resources](https://www.deeplearning.ai/resources/)
 
 ## ▶️ YouTube & Lecture Series
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [MIT 6.S191](https://www.youtube.com/@MITOpenCourseWare)
+- [Stanford CS231n](https://www.youtube.com/@stanfordonline)
+- [Andrej Karpathy Neural Networks: Zero to Hero](https://www.youtube.com/@AndrejKarpathy)
 
 ## 🌐 Websites & Tutorials
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Dive into Deep Learning](https://d2l.ai/)
+- [PyTorch tutorials](https://docs.pytorch.org/tutorials/)
+- [TensorFlow tutorials](https://www.tensorflow.org/tutorials)
 
 ## 📄 Research Papers
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [ResNet](https://arxiv.org/abs/1512.03385)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
 
 ## 💻 Projects
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [PyTorch tutorials](https://docs.pytorch.org/tutorials/)
+- [fast.ai notebooks](https://github.com/fastai/course22)
+- [Hugging Face notebooks](https://github.com/huggingface/notebooks)
 
 ## 🧪 Interactive Resources
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [TensorFlow Playground](https://playground.tensorflow.org/)
+- [Distill visual essays](https://distill.pub/)
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 ## 🛠️ Official Documentation
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [PyTorch](https://docs.pytorch.org/)
+- [TensorFlow](https://www.tensorflow.org/guide)
+- [Keras](https://keras.io/guides/)

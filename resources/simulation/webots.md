@@ -10,16 +10,24 @@
 
 ## 🌐 Websites & Tutorials
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Gazebo docs](https://gazebosim.org/docs)
+- [Webots docs](https://cyberbotics.com/doc/guide/index)
+- [MuJoCo docs](https://mujoco.readthedocs.io/)
 
 ## 🛠️ Official Documentation
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Gazebo](https://gazebosim.org/docs)
+- [Webots](https://cyberbotics.com/doc/guide/index)
+- [MuJoCo](https://mujoco.readthedocs.io/)
 
 ## ▶️ YouTube & Lecture Series
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Gazebo Robotics](https://www.youtube.com/@openroboticsorg)
+- [NVIDIA Isaac](https://www.youtube.com/@NVIDIADeveloper)
+- [Webots](https://www.youtube.com/@Cyberbotics)
 
 ## 🧑‍💻 Hands-on Labs
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Gazebo tutorials](https://gazebosim.org/docs/latest/getstarted/)
+- [Webots tutorials](https://cyberbotics.com/doc/guide/tutorials)
+- [MuJoCo Python tutorials](https://mujoco.readthedocs.io/en/stable/python.html)

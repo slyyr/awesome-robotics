@@ -10,24 +10,36 @@
 
 ## 🎓 Online Courses
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Hugging Face Robotics Course](https://huggingface.co/learn/robotics-course/)
+- [Modern Robotics MOOC](https://modernrobotics.northwestern.edu/modern-robotics-course/)
+- [Articulated Robotics ROS2 course](https://articulatedrobotics.xyz/)
 
 ## ▶️ YouTube & Lecture Series
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Modern Robotics lectures](https://www.youtube.com/@modernrobotics)
+- [MIT Underactuated Robotics](https://www.youtube.com/@underactuated)
+- [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics)
 
 ## 🌐 Websites & Tutorials
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Modern Robotics](https://modernrobotics.northwestern.edu/)
+- [Underactuated Robotics](https://underactuated.csail.mit.edu/)
+- [ROS 2 tutorials](https://docs.ros.org/en/jazzy/Tutorials.html)
 
 ## 🛠️ Official Documentation
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [ROS 2](https://docs.ros.org/)
+- [Gazebo](https://gazebosim.org/docs)
+- [MoveIt 2](https://moveit.picknik.ai/main/index.html)
 
 ## 🧑‍💻 Hands-on Labs
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Hugging Face Robotics Course](https://huggingface.co/learn/robotics-course/)
+- [Modern Robotics MOOC](https://modernrobotics.northwestern.edu/modern-robotics-course/)
+- [Articulated Robotics ROS2 course](https://articulatedrobotics.xyz/)
 
 ## 💻 Projects
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [ROS 2 tutorials](https://docs.ros.org/en/jazzy/Tutorials.html)
+- [Nav2](https://github.com/ros-navigation/navigation2)
+- [MoveIt 2](https://moveit.picknik.ai/main/index.html)

@@ -8,32 +8,48 @@
 
 ## 📚 Books
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Speech and Language Processing draft](https://web.stanford.edu/~jurafsky/slp3/)
+- [Dive into Deep Learning](https://d2l.ai/)
+- [Natural Language Processing with Transformers resources](https://huggingface.co/learn/nlp-course/)
 
 ## 🎓 University Courses
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Hugging Face LLM/NLP course](https://huggingface.co/learn/nlp-course/)
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+- [LLM University by Cohere](https://cohere.com/llmu)
 
 ## ▶️ YouTube & Lecture Series
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+- [Stanford NLP](https://www.youtube.com/@stanfordonline)
+- [Hugging Face](https://www.youtube.com/@HuggingFace)
 
 ## 🌐 Websites & Tutorials
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Hugging Face LLM course](https://huggingface.co/learn/nlp-course/)
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ## 📝 Lecture Notes
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Stanford CS224n](https://web.stanford.edu/class/cs224n/)
+- [Hugging Face course](https://huggingface.co/learn/nlp-course/)
+- [Stanford NLP notes](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## 📄 Research Papers
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [BERT](https://arxiv.org/abs/1810.04805)
+- [LLaMA](https://arxiv.org/abs/2302.13971)
 
 ## 💻 Projects
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Hugging Face Transformers](https://github.com/huggingface/transformers)
+- [nanoGPT](https://github.com/karpathy/nanoGPT)
+- [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 ## 🛠️ Official Documentation
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Hugging Face Transformers](https://huggingface.co/docs/transformers/)
+- [PyTorch](https://docs.pytorch.org/)
+- [vLLM](https://docs.vllm.ai/)

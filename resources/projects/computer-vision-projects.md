@@ -21,4 +21,6 @@
 
 ## Projects
 
-_No verified entries yet._
+- [OpenCV samples](https://github.com/opencv/opencv/tree/4.x/samples)
+- [PyTorch vision examples](https://github.com/pytorch/vision/tree/main/references)
+- [Hugging Face CV tasks](https://huggingface.co/tasks/image-classification)

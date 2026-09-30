@@ -8,32 +8,48 @@
 
 ## 📚 Books
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+- [Deep Reinforcement Learning Hands-On resources](https://spinningup.openai.com/en/latest/)
+- [Algorithms for Decision Making](https://algorithmsbook.com/)
 
 ## 🎓 University Courses
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Berkeley CS285 Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
+- [David Silver RL course](https://www.davidsilver.uk/teaching/)
+- [UCL RL course](https://www.gatsby.ucl.ac.uk/~dayan/book/)
 
 ## ▶️ YouTube & Lecture Series
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [David Silver RL lectures](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8f9o)
+- [Berkeley CS285](https://www.youtube.com/@berkeley_ai)
+- [DeepMind RL course](https://www.youtube.com/@GoogleDeepMind)
 
 ## 📝 Lecture Notes
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Spinning Up docs](https://spinningup.openai.com/en/latest/)
+- [David Silver notes](https://www.davidsilver.uk/teaching/)
+- [Algorithms for Decision Making](https://algorithmsbook.com/)
 
 ## 📄 Research Papers
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [DQN](https://arxiv.org/abs/1312.5602)
+- [PPO](https://arxiv.org/abs/1707.06347)
+- [SAC](https://arxiv.org/abs/1801.01290)
 
 ## 💻 Projects
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Gymnasium](https://gymnasium.farama.org/)
+- [Stable-Baselines3](https://stable-baselines3.readthedocs.io/)
+- [Spinning Up](https://spinningup.openai.com/en/latest/)
 
 ## 🧪 Interactive Resources
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
+- [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course/)
+- [DeepMind x UCL RL lectures](https://www.deepmind.com/learning-resources/reinforcement-learning-course)
 
 ## 🛠️ Official Documentation
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Gymnasium](https://gymnasium.farama.org/)
+- [Stable-Baselines3](https://stable-baselines3.readthedocs.io/)
+- [RLlib](https://docs.ray.io/en/latest/rllib/)

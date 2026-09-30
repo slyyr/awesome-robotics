@@ -2,9 +2,9 @@
 
 A curated collection of genuinely useful **free resources for learning AI, robotics, mathematics, physics, programming, and related engineering subjects.**
 
-![Robot meme](assets/gifs/no.gif)
-
 No giant link dumps. No filler. Just resources worth bookmarking.
+
+
 
 ## Explore
 

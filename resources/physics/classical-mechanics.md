@@ -8,24 +8,36 @@
 
 ## 📚 Books
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [OpenStax University Physics](https://openstax.org/details/books/university-physics-volume-1)
+- [Physics LibreTexts](https://phys.libretexts.org/)
+- [The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)
 
 ## 🎓 University Courses
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [MIT Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
+- [MIT Electricity and Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/)
+- [OpenStax University Physics](https://openstax.org/details/books/university-physics-volume-1)
 
 ## ▶️ YouTube & Lecture Series
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [MIT OCW](https://www.youtube.com/@mitocw)
+- [Fermilab](https://www.youtube.com/@fermilab)
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
 ## 📝 Lecture Notes
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [MIT Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
+- [MIT E&M](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/)
+- [Feynman Lectures](https://www.feynmanlectures.caltech.edu/)
 
 ## 🌐 Websites & Tutorials
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Physics LibreTexts](https://phys.libretexts.org/)
+- [OpenStax Physics](https://openstax.org/subjects/science)
+- [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html)
 
 ## 🧪 Interactive Resources
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [PhET simulations](https://phet.colorado.edu/)
+- [Falstad Circuit Simulator](https://www.falstad.com/circuit/)
+- [GeoGebra](https://www.geogebra.org/)

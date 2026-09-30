@@ -8,16 +8,24 @@
 
 ## ▶️ YouTube & Lecture Series
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Modern Robotics lectures](https://www.youtube.com/@modernrobotics)
+- [MIT Underactuated Robotics](https://www.youtube.com/@underactuated)
+- [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics)
 
 ## 🌐 Websites & Tutorials
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Modern Robotics](https://modernrobotics.northwestern.edu/)
+- [Underactuated Robotics](https://underactuated.csail.mit.edu/)
+- [ROS 2 tutorials](https://docs.ros.org/en/jazzy/Tutorials.html)
 
 ## 📄 Research Papers
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [ORB-SLAM2](https://arxiv.org/abs/1610.06475)
+- [VINS-Mono](https://arxiv.org/abs/1708.03852)
+- [RRT](https://doi.org/10.1109/70.631234)
 
 ## 💻 Projects
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [ROS 2 tutorials](https://docs.ros.org/en/jazzy/Tutorials.html)
+- [Nav2](https://github.com/ros-navigation/navigation2)
+- [MoveIt 2](https://moveit.picknik.ai/main/index.html)

@@ -8,20 +8,30 @@
 
 ## 📚 Books
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+- [Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/)
 
 ## 🎓 University Courses
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [MIT 18.01SC Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+- [MIT 18.05 Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
 
 ## 📝 Lecture Notes
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [MIT 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [MIT 18.01SC](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+- [MIT 18.05](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
 
 ## 🌐 Websites & Tutorials
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Khan Academy](https://www.khanacademy.org/math)
+- [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
 
 ## 💻 Projects
 
-_No verified entries yet. Add 3–5 of the best, following the [entry template](../../CONTRIBUTING.md#entry-template)._
+- [Khan Academy Math](https://www.khanacademy.org/math)
+- [3Blue1Brown Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+- [MIT Open Learning Library](https://ocw.mit.edu/course-lists/open-learning-library/)

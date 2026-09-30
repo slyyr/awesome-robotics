@@ -21,4 +21,6 @@
 
 ## Projects
 
-_No verified entries yet._
+- [PyTorch tutorials](https://docs.pytorch.org/tutorials/)
+- [fast.ai notebooks](https://github.com/fastai/course22)
+- [Hugging Face notebooks](https://github.com/huggingface/notebooks)
