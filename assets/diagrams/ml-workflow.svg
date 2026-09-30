@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 222" role="img" aria-labelledby="t d">
+<title id="t">Machine learning workflow</title><desc id="d">Frame the problem, gather data, build a baseline, train, evaluate, deploy and monitor, then loop back to data.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#475569"/></marker></defs>
+<rect width="1100" height="222" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="550.0" y="30" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#0f172a">Machine learning workflow</text>
+<line x1="180" y1="105.0" x2="213" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="356" y1="105.0" x2="389" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="532" y1="105.0" x2="565" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="708" y1="105.0" x2="741" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="884" y1="105.0" x2="917" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<path d="M990.0 134.0 C990.0 177.0, 286.0 177.0, 286.0 136.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#a)"/>
+<text x="638.0" y="184.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-style="italic" fill="#475569">new data, new problems</text>
+<rect x="40" y="78.0" width="140" height="54" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="110.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Frame problem</text>
+<text x="110.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">target &amp; metric</text>
+<rect x="216" y="78.0" width="140" height="54" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<text x="286.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Data</text>
+<text x="286.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">collect, clean, split</text>
+<rect x="392" y="78.0" width="140" height="54" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="462.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Baseline</text>
+<text x="462.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">simple model first</text>
+<rect x="568" y="78.0" width="140" height="54" rx="10" fill="#fce7f3" stroke="#db2777" stroke-width="1.5"/>
+<text x="638.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Train</text>
+<text x="638.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">fit &amp; tune</text>
+<rect x="744" y="78.0" width="140" height="54" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="814.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Evaluate</text>
+<text x="814.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">error analysis</text>
+<rect x="920" y="78.0" width="140" height="54" rx="10" fill="#cffafe" stroke="#0891b2" stroke-width="1.5"/>
+<text x="990.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Deploy &amp; monitor</text>
+<text x="990.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">drift, retraining</text>
+</svg>

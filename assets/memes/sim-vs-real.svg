@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" role="img" aria-labelledby="t">
+<title id="t">Robot happy in simulation, wobbly on real hardware</title>
+<rect width="700" height="300" rx="14" fill="#fff" stroke="#e2e8f0"/>
+<text x="350" y="30" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#0f172a">The sim-to-real gap</text>
+<line x1="350" y1="50" x2="350" y2="270" stroke="#cbd5e1" stroke-dasharray="4 4"/>
+<g transform="translate(175 150)"><rect x="-35" y="-30" width="70" height="70" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<circle cx="-14" cy="-8" r="6" fill="#0f172a"/><circle cx="14" cy="-8" r="6" fill="#0f172a"/>
+<path d="M-14 14 Q0 26 14 14" fill="none" stroke="#0f172a" stroke-width="3" stroke-linecap="round"/>
+<line x1="0" y1="-30" x2="0" y2="-50" stroke="#2563eb" stroke-width="3"/><circle cx="0" cy="-54" r="5" fill="#2563eb"/></g>
+<text x="175" y="245" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#0f172a">In simulation: "perfect 100% success"</text>
+<g transform="translate(525 150) rotate(22)"><rect x="-35" y="-30" width="70" height="70" rx="12" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<circle cx="-14" cy="-8" r="6" fill="#0f172a"/><circle cx="14" cy="-8" r="6" fill="#0f172a"/>
+<path d="M-14 20 Q0 10 14 20" fill="none" stroke="#0f172a" stroke-width="3" stroke-linecap="round"/>
+<line x1="0" y1="-30" x2="0" y2="-50" stroke="#dc2626" stroke-width="3"/><circle cx="0" cy="-54" r="5" fill="#dc2626"/></g>
+<text x="590" y="90" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#dc2626">?!</text>
+<text x="525" y="245" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#0f172a">On hardware: friction, latency, noise</text>
+</svg>

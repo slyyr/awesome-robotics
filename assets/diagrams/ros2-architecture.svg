@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 964 246" role="img" aria-labelledby="t d">
+<title id="t">ROS 2 architecture (publish / subscribe)</title><desc id="d">Sensor driver nodes publish to topics, algorithm nodes subscribe and publish commands, and a controller node drives the hardware.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#475569"/></marker></defs>
+<rect width="964" height="246" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="482.0" y="30" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#0f172a">ROS 2 architecture (publish / subscribe)</text>
+<line x1="180" y1="105.0" x2="223" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="180" y1="179.0" x2="223" y2="179.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="366" y1="105.0" x2="409" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="366" y1="179.0" x2="409" y2="179.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="552" y1="179.0" x2="595" y2="142.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="738" y1="142.0" x2="781" y2="142.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<text x="110.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#2563eb">DRIVERS</text>
+<rect x="40" y="78.0" width="140" height="54" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="110.0" y="110.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Camera node</text>
+<rect x="40" y="152.0" width="140" height="54" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="110.0" y="184.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Lidar node</text>
+<text x="296.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#16a34a">TOPICS</text>
+<rect x="226" y="78.0" width="140" height="54" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<text x="296.0" y="110.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">/image_raw</text>
+<rect x="226" y="152.0" width="140" height="54" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<text x="296.0" y="184.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">/scan</text>
+<text x="482.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#d97706">ALGORITHMS</text>
+<rect x="412" y="78.0" width="140" height="54" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="482.0" y="110.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Perception node</text>
+<rect x="412" y="152.0" width="140" height="54" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="482.0" y="184.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Planner node</text>
+<text x="668.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#db2777">TOPIC</text>
+<rect x="598" y="115.0" width="140" height="54" rx="10" fill="#fce7f3" stroke="#db2777" stroke-width="1.5"/>
+<text x="668.0" y="147.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">/cmd_vel</text>
+<text x="854.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#7c3aed">HARDWARE</text>
+<rect x="784" y="115.0" width="140" height="54" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="854.0" y="147.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Motor controller</text>
+</svg>

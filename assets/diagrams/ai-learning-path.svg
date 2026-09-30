@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 172" role="img" aria-labelledby="t d">
+<title id="t">AI learning path</title><desc id="d">From Python and math foundations through classical ML and deep learning to specialization and building real systems.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#475569"/></marker></defs>
+<rect width="1040" height="172" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="520.0" y="30" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#0f172a">AI learning path</text>
+<line x1="200" y1="105.0" x2="237" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="400" y1="105.0" x2="437" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="600" y1="105.0" x2="637" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="800" y1="105.0" x2="837" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<text x="120.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#2563eb">STAGE 1</text>
+<rect x="40" y="78.0" width="160" height="54" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="120.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Foundations</text>
+<text x="120.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">Python, linear algebra, probability</text>
+<text x="320.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#16a34a">STAGE 2</text>
+<rect x="240" y="78.0" width="160" height="54" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<text x="320.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Classical ML</text>
+<text x="320.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">regression, trees, evaluation</text>
+<text x="520.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#d97706">STAGE 3</text>
+<rect x="440" y="78.0" width="160" height="54" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="520.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Deep learning</text>
+<text x="520.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">networks, training, PyTorch</text>
+<text x="720.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#db2777">STAGE 4</text>
+<rect x="640" y="78.0" width="160" height="54" rx="10" fill="#fce7f3" stroke="#db2777" stroke-width="1.5"/>
+<text x="720.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Specialize</text>
+<text x="720.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">vision, NLP, RL, generative</text>
+<text x="920.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#7c3aed">STAGE 5</text>
+<rect x="840" y="78.0" width="160" height="54" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="920.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Build &amp; ship</text>
+<text x="920.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">projects, AI engineering</text>
+</svg>

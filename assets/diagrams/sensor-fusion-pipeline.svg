@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 870 394" role="img" aria-labelledby="t d">
+<title id="t">Sensor fusion pipeline</title><desc id="d">Camera, lidar, IMU and wheel odometry are synchronized and calibrated, fused by a filter or factor graph, and produce a state estimate.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#475569"/></marker></defs>
+<rect width="870" height="394" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="435.0" y="30" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#0f172a">Sensor fusion pipeline</text>
+<line x1="200" y1="105.0" x2="247" y2="216.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="200" y1="179.0" x2="247" y2="216.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="200" y1="253.0" x2="247" y2="216.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="200" y1="327.0" x2="247" y2="216.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="410" y1="216.0" x2="457" y2="216.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="620" y1="216.0" x2="667" y2="216.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<text x="120.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#2563eb">SENSORS</text>
+<rect x="40" y="78.0" width="160" height="54" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="120.0" y="110.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Camera</text>
+<rect x="40" y="152.0" width="160" height="54" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="120.0" y="184.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Lidar</text>
+<rect x="40" y="226.0" width="160" height="54" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="120.0" y="258.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">IMU</text>
+<rect x="40" y="300.0" width="160" height="54" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="120.0" y="332.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Wheel odometry</text>
+<text x="330.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#16a34a">PREPARATION</text>
+<rect x="250" y="189.0" width="160" height="54" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<text x="330.0" y="221.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Time sync &amp; calibration</text>
+<text x="540.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#d97706">FUSION</text>
+<rect x="460" y="189.0" width="160" height="54" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="540.0" y="211.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Filter / factor graph</text>
+<text x="540.0" y="229.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">EKF, UKF, smoothing</text>
+<text x="750.0" y="64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#db2777">OUTPUT</text>
+<rect x="670" y="189.0" width="160" height="54" rx="10" fill="#fce7f3" stroke="#db2777" stroke-width="1.5"/>
+<text x="750.0" y="211.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">State estimate</text>
+<text x="750.0" y="229.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">pose, velocity, uncertainty</text>
+</svg>

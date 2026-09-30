@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 222" role="img" aria-labelledby="t d">
+<title id="t">SLAM overview</title><desc id="d">Sensor data feeds a front-end that estimates motion, loop closure detects revisits, and a back-end optimizes the map and trajectory.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#475569"/></marker></defs>
+<rect width="990" height="222" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="495.0" y="30" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#0f172a">SLAM overview</text>
+<line x1="190" y1="105.0" x2="227" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="380" y1="105.0" x2="417" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="570" y1="105.0" x2="607" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<line x1="760" y1="105.0" x2="797" y2="105.0" stroke="#475569" stroke-width="1.6" marker-end="url(#a)" opacity="0.8"/>
+<path d="M685.0 134.0 C685.0 177.0, 305.0 177.0, 305.0 136.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#a)"/>
+<text x="495.0" y="184.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-style="italic" fill="#475569">corrected poses</text>
+<rect x="40" y="78.0" width="150" height="54" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="115.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Sensor data</text>
+<text x="115.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">lidar / camera / IMU</text>
+<rect x="230" y="78.0" width="150" height="54" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<text x="305.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Front-end</text>
+<text x="305.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">scan or feature matching</text>
+<rect x="420" y="78.0" width="150" height="54" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+<text x="495.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Loop closure</text>
+<text x="495.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">recognize revisits</text>
+<rect x="610" y="78.0" width="150" height="54" rx="10" fill="#fce7f3" stroke="#db2777" stroke-width="1.5"/>
+<text x="685.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Back-end</text>
+<text x="685.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">graph optimization</text>
+<rect x="800" y="78.0" width="150" height="54" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="875.0" y="100.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#0f172a">Map + trajectory</text>
+<text x="875.0" y="118.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#475569">consistent result</text>
+</svg>
