@@ -35,3 +35,13 @@
 - [Hugging Face Robotics Course](https://huggingface.co/learn/robotics-course/)
 - [Modern Robotics MOOC](https://modernrobotics.northwestern.edu/modern-robotics-course/)
 - [Articulated Robotics ROS2 course](https://articulatedrobotics.xyz/)
+
+### Botstest
+**Type:** Research resource directory
+**Access:** Free directory browsing; linked resources have their own access and license terms.
+**Level:** Reference (all levels)
+**Format:** Categorized index with resource summaries and publisher links
+Embodied-AI and robotics discovery index covering models, datasets, benchmarks and software.
+**Best for:** Researchers and developers locating original robotics resources.
+**Prerequisites:** None for browsing; requirements vary by linked resource.
+[Open resource →](https://botstest.com/)
