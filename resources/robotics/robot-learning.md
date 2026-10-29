@@ -4,19 +4,40 @@
 
 > RL and imitation learning for robots, sim-to-real.
 
-**Status:** structure ready, curation pending. Only verified, legitimately free resources are listed; none are added until checked.
-
 ## 📚 Books
 
 - [Modern Robotics free textbook](https://modernrobotics.northwestern.edu/)
-- [Underactuated Robotics](https://underactuated.csail.mit.edu/)
 - [Robotics: Modelling, Planning and Control resources](https://www.diag.uniroma1.it/deluca/rob1_en/Rob1_en.html)
 
 ## 🎓 University Courses
 
-- [Modern Robotics course](https://modernrobotics.northwestern.edu/nu-gm-book-resource/)
-- [MIT Underactuated Robotics](https://underactuated.csail.mit.edu/)
-- [ETH Robotics Systems Lab courses](https://rsl.ethz.ch/education-students/education.html)
+### Modern Robotics
+
+**Type:** University course  
+**Access:** Free  
+**Level:** Intermediate  
+**Format:** Online textbook + video supplements
+
+A systematic introduction to robot kinematics, dynamics, motion planning, and control, with chapter videos and interactive resources.
+
+**Best for:** Learners who want a structured foundation in robotics before specializing in robot learning.  
+**Prerequisites:** Calculus, linear algebra, and basic mechanics are helpful.
+
+[Open course materials →](https://modernrobotics.northwestern.edu/nu-gm-book-resource/)
+
+### MIT Underactuated Robotics
+
+**Type:** University course  
+**Access:** Open access  
+**Level:** Advanced  
+**Format:** Lecture notes + videos + code
+
+MIT course notes on planning and control for systems that cannot be stabilized by simple feedback, including legged robots and manipulation.
+
+**Best for:** Readers who want to connect robot dynamics and control theory to locomotion and manipulation.  
+**Prerequisites:** Linear algebra, dynamics, and prior exposure to control theory.
+
+[Open course materials →](https://underactuated.csail.mit.edu/)
 
 ## ▶️ YouTube & Lecture Series
 
